@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm Yeseswini 👋</h1>
+<h1 align="center">hey, i'm yeseswini! </h1>
 
 <p align="center">
 curious brain • code learner • system thinker
