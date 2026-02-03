@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">hey, i'm Yeseswini 👋</h1>
 
-<!--
-**yeses03/yeses03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+curious brain • code learner • system thinker
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 currently growing
+
+- learning **C** (understanding how things work from the ground up)
+- learning **PyTorch** (teaching machines to learn a little)
+- practicing **DSA** like a daily puzzle
+- exploring **how logic + creativity** can build cool stuff
+
+---
+
+### 🧰 tiny toolbox (so far)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,pytorch,git,mysql" />
+</p>
+
+---
+
+### 🗂️ what you’ll find here
+
+| area | what’s happening |
+|-----|-------------------|
+| 🧠 dsa | clean implementations + my understanding notes |
+| 🤖 ai experiments | small PyTorch trials and learning logs |
+| 🧪 mini projects | ideas I felt like building |
+| 📝 notes | concepts explained in my own words |
+
+---
+
+### 🧠 how i like to think
+
+> understand the system first.  
+> then the code feels obvious.
+
+---
+
+### 🎯 current mission
+
+turning confusion into clarity, one repo at a time.
+
+---
+
+### 📍 find me around
+
+linkedin: www.linkedin.com/in/yeseswini-l-34977236a
