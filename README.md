@@ -41,12 +41,6 @@ curious brain • code learner • system thinker
 
 ---
 
-### 🎯 current mission
-
-turning confusion into clarity, one repo at a time.
-
----
-
 ### 📍 find me around
 
 linkedin: www.linkedin.com/in/yeseswini-l-34977236a
