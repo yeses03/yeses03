@@ -8,7 +8,7 @@ curious brain • code learner • system thinker
 
 ### 🌱 currently growing
 
-- learning **C** (understanding how things work from the ground up)
+- learning **C and C++** (understanding how things work from the ground up)
 - learning **PyTorch** (teaching machines to learn a little)
 - practicing **DSA** cause algorithms are the atoms of code
 - exploring **how logic + creativity** can build cool stuff
