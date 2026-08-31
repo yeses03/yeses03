@@ -34,12 +34,6 @@
 
 ---
 
-### 🧠 how i like to think
-
-> understand the system first.  
-> then the code feels obvious.
-
----
 
 ### 📍 find me around
 
