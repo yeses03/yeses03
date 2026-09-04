@@ -6,7 +6,7 @@
 ---
 
 ### currently growing
-- learning **C and C++** 
+- learning **Python, C, C++ and Java** 
 - learning **ROS** 
 - learning **PyTorch** 
 - practicing **DSA** 
