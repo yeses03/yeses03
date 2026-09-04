@@ -38,7 +38,7 @@
 
 ---
 
-### contribution (but a snake eats all of them :P)
+### contributions (but a snake eats all of them :P)
 
 <p align="center">
   <picture>
