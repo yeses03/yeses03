@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm yeseswini!</h1>
+<h1 align="center">hey, i'm yeseswini!🌱</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -32,23 +32,6 @@
 | robotics | ROS packages and small robot experiments |
 | mini projects | ideas I felt like building |
 | notes | concepts explained in my own words |
-
----
-
-### stats
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yeses03&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-### trophy case
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeses03&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-### contribution snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yeses03/yeses03/output/dist/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
