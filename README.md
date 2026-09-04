@@ -1,18 +1,17 @@
 <h1 align="center">hey, i'm yeseswini!🌱</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E7B53C&center=true&vCenter=true&width=460&lines=AI+%26+Robotics+student+%40+VIT+Chennai;somehow+it+compiled+lol;building+in+progress;it+works+on+my+machine;just+building+stuff;learning+as+i+go" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=460&lines=AI+%26+Robotics+student+%40+VIT+Chennai;somehow+it+compiled+lol;building+in+progress;it+works+on+my+machine;just+building+stuff;learning+as+i+go" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### currently growing
-- learning **C and C++** (understanding how things work from the ground up)
-- learning **ROS** (getting robots to actually talk to each other)
-- learning **PyTorch** (teaching machines to learn a little)
-- practicing **DSA** cause algorithms are the atoms of code
+- learning **C and C++** 
+- learning **ROS** 
+- learning **PyTorch** 
+- practicing **DSA** 
 - exploring how logic + creativity can build cool stuff
 
 ---
