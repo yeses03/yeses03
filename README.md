@@ -7,6 +7,13 @@
 
 ---
 
+### contribution snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yeses03/yeses03/output/dist/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### currently growing
 - learning **C and C++** 
 - learning **ROS** 
