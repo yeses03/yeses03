@@ -32,10 +32,5 @@
 
 ---
 
-### stats
-![Yeseswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeses03&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### find me around
 linkedin: [www.linkedin.com/in/yeseswini-l-34977236a](https://www.linkedin.com/in/yeseswini-l-34977236a)
