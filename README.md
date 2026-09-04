@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm yeseswini!🌱</h1>
+<h1 align="center">hey, i'm yeseswini!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -38,7 +38,6 @@
 ### stats
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yeses03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=yeses03&theme=tokyonight&hide_border=true" />
 </p>
 
 ### trophy case
