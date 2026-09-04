@@ -1,40 +1,41 @@
-<h1 align="center">hey, i'm yeseswini! </h1>
-
+<h1 align="center">hey, i'm yeseswini!</h1>
 <p align="center">
 :)
 </p>
 
 ---
 
-### 🌱 currently growing
-
-- learning **C and C++** (understanding how things work from the ground up)
-- learning **PyTorch** (teaching machines to learn a little)
-- practicing **DSA** cause algorithms are the atoms of code
-- exploring **how logic + creativity** can build cool stuff
+### currently growing
+- learning **C and C++** 
+- learning **ROS** 
+- learning **PyTorch** 
+- practicing **DSA** 
+- exploring how logic + creativity can build cool stuff
 
 ---
 
-### 🧰 tiny toolbox (so far)
-
+### tiny toolbox (so far)
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,pytorch,git,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,ros,git,mysql" />
 </p>
 
 ---
 
-### 🗂️ what you’ll find here
-
-| area | what’s happening |
+### what you'll find here
+| area | what's happening |
 |-----|-------------------|
-| 🧠 dsa | clean implementations + my understanding notes |
-| 🤖 ai experiments | small PyTorch trials and learning logs |
-| 🧪 mini projects | ideas I felt like building |
-| 📝 notes | concepts explained in my own words |
+| dsa | clean implementations + my understanding notes |
+| ai experiments | small PyTorch trials and learning logs |
+| robotics | ROS packages and small robot experiments |
+| mini projects | ideas I felt like building |
+| notes | concepts explained in my own words |
 
 ---
 
+### stats
+![Yeseswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeses03&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 📍 find me around
+---
 
-linkedin: www.linkedin.com/in/yeseswini-l-34977236a
+### find me around
+linkedin: [www.linkedin.com/in/yeseswini-l-34977236a](https://www.linkedin.com/in/yeseswini-l-34977236a)
