@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  CSE (AI & Robotics) @ VIT Chennai
-</p>
-
 ---
 
 ### what i know
