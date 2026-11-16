@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  CSE (AI & Robotics) at VIT Chennai 
+  CSE (AI & Robotics) student at VIT Chennai 
 </p>
 
 ---
