@@ -34,7 +34,7 @@
 
 ### robots & simulations
 
-- **[JetBot Pro](https://github.com/yeses03/jetbotpro)** - ROS on the WaveShare JetBot (NVIDIA Jetson Nano). yes, an actual little robot
+- **[JetBot Pro](https://github.com/yeses03/jetbotpro)** - ROS on the WaveShare JetBot (NVIDIA Jetson Nano). 
 - **[Maglev Train Simulator](https://github.com/yeses03/Maglev-Train-Simulator)** - a train that floats 🚄 PID-controlled levitation, linear-motor propulsion, air drag, and coils that overheat and shut down. ([v1 here](https://github.com/yeses03/Maglev-Simulation))
 - **indoor assistance system for the visually impaired** *(private, college IDP project)* - helping people find their way around unfamiliar public buildings
 
