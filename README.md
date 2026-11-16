@@ -50,11 +50,6 @@ dsa from college, rstudio for probability & statistics, and a bit of TypeScript,
 
 - **[Wordle](https://github.com/yeses03/Wordle_Enactus)** and **[Grid Sequence Memory](https://github.com/yeses03/GridSequenceMemory_Enactus)** — built for the Enactus club expo 2026
 
-### college stuff
-
-- **[RStudio — Probability & Statistics](https://github.com/yeses03/RStudio-Sem2-ProbabilityAndStatistics)** — all my sem 2 R code
-- **[Courier Management System](https://github.com/Asma-Zain/Courier-Management-System)** — DBMS project with [Asma](https://github.com/Asma-Zain)
-
 ---
 
 ### contributions (but a snake eats all of them :P)
