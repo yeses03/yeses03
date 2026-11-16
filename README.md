@@ -17,7 +17,7 @@
 ### what i know
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" alt="Tech stack: languages, databases, robotics, web and apps, college subjects">
+  <img src="./assets/tech-stack.svg" alt="Tech stack: languages, databases, robotics, web and apps">
 </p>
 
 ---
