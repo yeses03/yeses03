@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  CSE (AI & Robotics) @ VIT Chennai · robots, sims, apps, and the occasional wordle clone
+  CSE (AI & Robotics) at VIT Chennai 
 </p>
 
 ---
 
-### 🧰 what i know
+### what i know
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,ros,git" alt="C, C++, Java, Python, R, ROS, Git" />
@@ -29,13 +29,13 @@ dsa from college, rstudio for probability & statistics, and a bit of TypeScript,
 
 ---
 
-### 🤖 robots & simulations
+### robots & simulations
 
 - **[JetBot Pro](https://github.com/yeses03/jetbotpro)** — ROS on the WaveShare JetBot (NVIDIA Jetson Nano). yes, an actual little robot
 - **[Maglev Train Simulator](https://github.com/yeses03/Maglev-Train-Simulator)** — a train that floats 🚄 PID-controlled levitation, linear-motor propulsion, air drag, and coils that overheat and shut down. ([v1 here](https://github.com/yeses03/Maglev-Simulation))
 - **indoor assistance system for the visually impaired** *(private, college IDP project)* — helping people find their way around unfamiliar public buildings
 
-### 🛠️ apps & web
+### apps & web
 
 - **[Commit Arena](https://github.com/yeses03/Git-Tracker)** — a leaderboard for my github commit contest with friends, because competition works. [live site](https://git-tracker-tqxb.onrender.com/)
 - **[Java Practice IDE](https://github.com/yeses03/java-practice-ide)** — a LeetCode-style practice tool on my own machine: paste a question, write Java, it judges the code
@@ -46,18 +46,18 @@ dsa from college, rstudio for probability & statistics, and a bit of TypeScript,
 - **Payroll Console** *(private)* — [live](https://employee-payroll-green.vercel.app)
 - **Meetup Master** *(private)* and WorkPass Pro
 
-### 🎮 games
+### games
 
 - **[Wordle](https://github.com/yeses03/Wordle_Enactus)** and **[Grid Sequence Memory](https://github.com/yeses03/GridSequenceMemory_Enactus)** — built for the Enactus club expo 2026
 
-### 📚 college stuff
+### college stuff
 
 - **[RStudio — Probability & Statistics](https://github.com/yeses03/RStudio-Sem2-ProbabilityAndStatistics)** — all my sem 2 R code
 - **[Courier Management System](https://github.com/Asma-Zain/Courier-Management-System)** — DBMS project with [Asma](https://github.com/Asma-Zain)
 
 ---
 
-### 🐍 contributions (but a snake eats all of them :P)
+### contributions (but a snake eats all of them :P)
 
 <p align="center">
   <picture>
@@ -69,6 +69,6 @@ dsa from college, rstudio for probability & statistics, and a bit of TypeScript,
 
 ---
 
-### 👋 find me around
+### find me around!
 
 [linkedin](https://www.linkedin.com/in/yeseswini-l-34977236a)
