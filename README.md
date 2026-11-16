@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Neo4j_Aura-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Aura" />
 </p>
 
-dsa from college, rstudio for probability & statistics, and a bit of TypeScript, Next.js, Flutter and Kotlin picked up along the way.
-
 ---
 
 ### robots & simulations
