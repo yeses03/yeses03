@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Yeseswini L — CSE (AI & Robotics) student at VIT Chennai">
+  <img src="./assets/banner.svg" alt="Yeseswini L - CSE (AI & Robotics) student at VIT Chennai">
 </p>
 
 <p align="center">
@@ -34,26 +34,26 @@
 
 ### robots & simulations
 
-- **[JetBot Pro](https://github.com/yeses03/jetbotpro)** — ROS on the WaveShare JetBot (NVIDIA Jetson Nano). yes, an actual little robot
-- **[Maglev Train Simulator](https://github.com/yeses03/Maglev-Train-Simulator)** — a train that floats 🚄 PID-controlled levitation, linear-motor propulsion, air drag, and coils that overheat and shut down. ([v1 here](https://github.com/yeses03/Maglev-Simulation))
-- **indoor assistance system for the visually impaired** *(private, college IDP project)* — helping people find their way around unfamiliar public buildings
+- **[JetBot Pro](https://github.com/yeses03/jetbotpro)** - ROS on the WaveShare JetBot (NVIDIA Jetson Nano). yes, an actual little robot
+- **[Maglev Train Simulator](https://github.com/yeses03/Maglev-Train-Simulator)** - a train that floats 🚄 PID-controlled levitation, linear-motor propulsion, air drag, and coils that overheat and shut down. ([v1 here](https://github.com/yeses03/Maglev-Simulation))
+- **indoor assistance system for the visually impaired** *(private, college IDP project)* - helping people find their way around unfamiliar public buildings
 
 ### apps & web
 
-- **[Commit Arena](https://github.com/yeses03/Git-Tracker)** — a leaderboard for my github commit contest with friends, because competition works. [live site](https://git-tracker-tqxb.onrender.com/)
-- **[Java Practice IDE](https://github.com/yeses03/java-practice-ide)** — a LeetCode-style practice tool on my own machine: paste a question, write Java, it judges the code
-- **WorkPass** *(private)* — Flutter app that turns gig-work income into something banks trust, with a "WorkScore". [demo](https://flutter-sprint.vercel.app)
-- **Placement Automation System** *(private)* — placement management with admin tools for jobs and companies
-- **Luna** *(private)* — my personalised fork of an open-source AI project-management assistant (Markdown + Git + local LLM)
+- **[Commit Arena](https://github.com/yeses03/Git-Tracker)** - a leaderboard for my github commit contest with friends, because competition works. [live site](https://git-tracker-tqxb.onrender.com/)
+- **[Java Practice IDE](https://github.com/yeses03/java-practice-ide)** - a LeetCode-style practice tool on my own machine: paste a question, write Java, it judges the code
+- **WorkPass** *(private)* - Flutter app that turns gig-work income into something banks trust, with a "WorkScore". [demo](https://flutter-sprint.vercel.app)
+- **Placement Automation System** *(private)* - placement management with admin tools for jobs and companies
+- **Luna** *(private)* - my personalised fork of an open-source AI project-management assistant (Markdown + Git + local LLM)
 
 ### games
 
-- **[Wordle](https://github.com/yeses03/Wordle_Enactus)** and **[Grid Sequence Memory](https://github.com/yeses03/GridSequenceMemory_Enactus)** — built for the Enactus club expo 2026
+- **[Wordle](https://github.com/yeses03/Wordle_Enactus)** and **[Grid Sequence Memory](https://github.com/yeses03/GridSequenceMemory_Enactus)** - built for the Enactus club expo 2026
 
 ### college stuff
 
-- **[RStudio — Probability & Statistics](https://github.com/yeses03/RStudio-Sem2-ProbabilityAndStatistics)** — all my sem 2 R code
-- **[Courier Management System](https://github.com/Asma-Zain/Courier-Management-System)** — DBMS project with [Asma](https://github.com/Asma-Zain)
+- **[RStudio - Probability & Statistics](https://github.com/yeses03/RStudio-Sem2-ProbabilityAndStatistics)** - all my sem 2 R code
+- **[Courier Management System](https://github.com/Asma-Zain/Courier-Management-System)** - DBMS project with [Asma](https://github.com/Asma-Zain)
 
 ---
 
@@ -74,6 +74,6 @@
 <p align="center">
   <b>Yeseswini L</b><br><br>
   <a href="https://www.linkedin.com/in/yeseswini-l-34977236a">
-    <img src="https://img.shields.io/badge/LinkedIn-Yeseswini_L-91A9DB?style=for-the-badge&logo=linkedin&logoColor=0b1425" alt="LinkedIn — Yeseswini L" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yeseswini_L-91A9DB?style=for-the-badge&logo=linkedin&logoColor=0b1425" alt="LinkedIn - Yeseswini L" />
   </a>
 </p>

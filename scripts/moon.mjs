@@ -1,4 +1,4 @@
-// Writes assets/moon.svg — "tonight's moon", drawn from the real lunar phase.
+// Writes assets/moon.svg - "tonight's moon", drawn from the real lunar phase.
 // Run nightly by .github/workflows/moon.yml (or locally: node scripts/moon.mjs).
 import { writeFileSync, mkdirSync } from "node:fs";
 
